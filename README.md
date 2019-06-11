@@ -29,9 +29,13 @@ We're happy to be added as Owners on crates.io for projects we host. We can then
 
 We currently look after:
 
-* console-traits - a crate for handling text-based consoles on `no_std` embedded systems. If you implement this trait on the serial port in your project, you'll get rudimentary ANSI support for any text you print to the screen. Originally by @thejpster.
+* console-traits - a crate for handling text-based consoles on `no_std` embedded systems. If you implement this trait on the serial port in your project, you'll get rudimentary ANSI support for any text you print to the screen. Originally by [@thejpster](https://github.com/thejpster).
+
+* cortex-m-scheduling - a crate for starting up multiple threads on a bare-metal Cortex-M3+ based system. Originally by [@samp20](https://github.com/samp20).
 
 ## Maintainers
 
-* Jonathan 'theJPster' Pallant - [Github](https://github.com/thejpster) [Twitter](https://twitter.com/therealjpster) [Keybase](https://keybase.io/thejpster)
+* Jonathan 'theJPster' Pallant - [Github](https://github.com/thejpster) | [Twitter](https://twitter.com/therealjpster) | [Keybase](https://keybase.io/thejpster)
 * James Munns - [Github](https://github.com/jamesmunns)
+* Vadim Kaushan - [Github](https://github.com/disasm)
+
