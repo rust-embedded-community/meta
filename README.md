@@ -38,4 +38,5 @@ We currently look after:
 * Jonathan 'theJPster' Pallant - [Github](https://github.com/thejpster) | [Twitter](https://twitter.com/therealjpster) | [Keybase](https://keybase.io/thejpster)
 * James Munns - [Github](https://github.com/jamesmunns)
 * Vadim Kaushan - [Github](https://github.com/disasm)
+* Diego Barrios Romero - [Github](https://github.com/eldruin)
 
