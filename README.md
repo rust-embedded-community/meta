@@ -1,5 +1,7 @@
 # rust-embedded-community
 
+[<img src="assets/logo/rec-logo-250x250.png" align="right" width="250">](https://github.com/rust-embedded-community/meta)
+
 The [rust-embedded-community](https://github.com/rust-embedded-community) Github organization is simply a place for [Rust language](https://www.rust-lang.org) crates in need of a good home.
 
 ## The idea
