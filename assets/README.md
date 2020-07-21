@@ -14,5 +14,5 @@ Assets containing word marks or logos trademarked by the The Rust Programming La
 
 The Rust Embedded Community Logo was designed by [Diego Barrios Romero]. It is based on the Rust Embedded Working Group Logo, based on the Rust logo, which was designed by [Erin Power]. These designs include all files matching `assets/logo/rec-logo*`.
 
-[Aaron Power]: https://github.com/Aaronepower
+[Erin Power]: https://github.com/XAMPPRocky
 [Diego Barrios Romero]: https://github.com/eldruin
