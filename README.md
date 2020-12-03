@@ -56,6 +56,7 @@ We're happy to be added as Owners on crates.io for projects we host. We can then
 * Vadim Kaushan - [Github](https://github.com/disasm)
 * Diego Barrios Romero - [Github](https://github.com/eldruin)
 * Mathias Koch - [Github](https://github.com/MathiasKoch)
+* Ryan Summers - [Github](https://github.com/ryan-summers)
 
 [OSI]: https://en.wikipedia.org/wiki/Open_Source_Initiative
 [REWG]: https://github.com/rust-embedded
