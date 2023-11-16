@@ -58,6 +58,7 @@ We're happy to be added as Owners on crates.io for projects we host. We can then
 * Mathias Koch - [Github](https://github.com/MathiasKoch)
 * Ryan Summers - [Github](https://github.com/ryan-summers)
 * Matt Dunlap - [Github](https://github.com/dunmatt)
+* Jan Niehusmann - [Github](https://github.com/jannic)
 
 [OSI]: https://en.wikipedia.org/wiki/Open_Source_Initiative
 [REWG]: https://github.com/rust-embedded
