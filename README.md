@@ -2,7 +2,7 @@
 
 [<img src="assets/logo/rec-logo-250x250.png" align="right" width="250">](https://github.com/rust-embedded-community/meta)
 
-The [rust-embedded-community][REC] Github organization serves two purposes: increasing the bus factor of hosted crates and provide a place for centralized maturation of experimental crates which are meant to be widely used.
+The [rust-embedded-community][REC] GitHub organization serves two purposes: increasing the bus factor of hosted crates and provide a place for centralized maturation of experimental crates which are meant to be widely used.
 
 For the official working group dedicated to [Rust] on embedded devices, please refer to the [Rust Embedded Working Group][REWG].
 
@@ -28,7 +28,7 @@ Sometimes, crates from this organization may be migrated to the [REWG] or integr
 
 ## The original idea
 
-Several members of the Rust Embedded Working Group got together at Oxidize 2019 and wondered, what can we do with these half-finished projects we've started but never quite find the time to finish? Rather than invite each other to all our repositories, we wondered if there could be a place where unloved crates could move in and get some of the care and attention they deserve. And so, the rust-embedded-community was born.
+Several members of the Rust Embedded Working Group got together at Oxidize 2019 and wondered, "what can we do with these half-finished projects we've started but never quite find the time to finish"? Rather than invite each other to all our repositories, we wondered if there could be a place where unloved crates could move in and get some of the care and attention they deserve. And so, the rust-embedded-community was born.
 
 ## Joining the community
 
@@ -43,7 +43,7 @@ We haven't really worked out any rules as to what we will and won't look after, 
 * Useful to the wider Rust Embedded community (or at least, not just the author)
 * Licensed under an [OSI]-approved open-source license.
 
-If you'd use to fork a project, open an issue and tell us about it.
+If you'd like to suggest a project to be moved to the community, please open an issue and tell us about it.
 
 ## Crates.io
 
@@ -51,13 +51,13 @@ We're happy to be added as Owners on crates.io for projects we host. We can then
 
 ## Maintainers
 
-* Jonathan 'theJPster' Pallant - [Github](https://github.com/thejpster) | [Twitter](https://twitter.com/therealjpster) | [Keybase](https://keybase.io/thejpster)
-* James Munns - [Github](https://github.com/jamesmunns)
+* Jonathan 'theJPster' Pallant - [GitHub](https://github.com/thejpster) | [Twitter](https://twitter.com/therealjpster) | [Keybase](https://keybase.io/thejpster)
+* James Munns - [GitHub](https://github.com/jamesmunns)
 * Vadim Kaushan - [Github](https://github.com/disasm)
 * Diego Barrios Romero - [Github](https://github.com/eldruin)
 * Mathias Koch - [Github](https://github.com/MathiasKoch)
-* Ryan Summers - [Github](https://github.com/ryan-summers)
-* Matt Dunlap - [Github](https://github.com/dunmatt)
+* Ryan Summers - [GitHub](https://github.com/ryan-summers)
+* Matt Dunlap - [GitHub](https://github.com/dunmatt)
 * Jan Niehusmann - [Github](https://github.com/jannic)
 
 [OSI]: https://en.wikipedia.org/wiki/Open_Source_Initiative
