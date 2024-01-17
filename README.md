@@ -47,7 +47,9 @@ If you'd like to suggest a project to be moved to the community, please open an 
 
 ## Crates.io
 
-We're happy to be added as Owners on crates.io for projects we host. We can then help co-ordinate pushing out updates when something elsewhere in the ecosystem causes breakage. Open an issue if you want to discuss this - we might need to set up a group email account or something to avoid maintaining lots of copies of maintainer list.
+We're happy to be added as Owners on crates.io for projects we host. We can then help co-ordinate pushing out updates when something elsewhere in the ecosystem causes breakage. Open an issue if you want to discuss this.
+
+Once approved, a maintainer can add the team by adding `github:rust-embedded-community:all`. Note that this can only be done by a member of the team, so you might first have to add one of them individually if you aren't one yourself.
 
 ## Maintainers
 
