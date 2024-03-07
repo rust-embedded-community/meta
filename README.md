@@ -61,6 +61,7 @@ Once approved, a maintainer can add the team by adding `github:rust-embedded-com
 * Ryan Summers - [GitHub](https://github.com/ryan-summers)
 * Matt Dunlap - [GitHub](https://github.com/dunmatt)
 * Jan Niehusmann - [Github](https://github.com/jannic)
+* Scott Mabin - [Github](https://github.com/mabezdev)
 
 [OSI]: https://en.wikipedia.org/wiki/Open_Source_Initiative
 [REWG]: https://github.com/rust-embedded
