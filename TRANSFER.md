@@ -15,7 +15,7 @@ projects that they wish to transfer as well.
     2. Select "Specify an organization or username" and supply `rust-embedded-community`
     3. Confirm the transfer and select "I understand, transfer this repository"
 
-2. [Optional] Add the rust-embedded-community project to the crates.io owners to allow the community
+2. Add the rust-embedded-community project to the crates.io owners to allow the community
    to issue updated releases for the crate:
    ```sh
    cargo owner --add github:rust-embedded-community:all
