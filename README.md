@@ -45,6 +45,8 @@ We haven't really worked out any rules as to what we will and won't look after, 
 
 If you'd like to suggest a project to be moved to the community, please open an issue and tell us about it.
 
+For detailed instructions on how to transfer repositories, please refer to [TRANSFER.md](TRANSFER.md).
+
 ## Crates.io
 
 We're happy to be added as Owners on crates.io for projects we host. We can then help co-ordinate pushing out updates when something elsewhere in the ecosystem causes breakage. Open an issue if you want to discuss this.
