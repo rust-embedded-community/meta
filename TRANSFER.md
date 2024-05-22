@@ -14,8 +14,7 @@ to join the `rust-embedded-community` project.
 ### Transfer Process (Joining the R-E-C)
 
 This process is used if the original crate owner would like to become a member of the
-`rust-embedded-community` project. This is required if the original owner still desires
-administration permissions for the source code repository of the crate.
+`rust-embedded-community` project.
 
 1. Request to join the community by following the steps outlined [here](README.md#joining-the-community).
 1. Once you have been added, request to transfer the repository under the repository settings:
