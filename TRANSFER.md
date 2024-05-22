@@ -46,6 +46,9 @@ The following process can be used if the original crate owner does not wish to j
         * If you haven't been in contact with anyone yet, feel free to [open an issue](https://github.com/rust-embedded-community/meta/issues/new) and one of us will be
         happy to assist.
     3. Confirm the transfer and select "I understand, transfer this repository"
-
+    4. Add the contact person to the crates.io owners to allow them to allow the community
+     to issue updated releases for the crate:
+   ```sh
+   cargo owner --add github:<MEMBER-GITHUB-ID>
 Once the repository is transferred to the organizational member, that member should follow the steps
 outlined above for transferring to the `rust-embedded-comunity`.
