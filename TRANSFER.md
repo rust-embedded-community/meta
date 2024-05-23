@@ -48,6 +48,6 @@ The following process can be used if the original crate owner does not wish to j
     4. Add the contact person to the crates.io owners to allow them to allow the community
      to issue updated releases for the crate:
    ```sh
-   cargo owner --add github:<MEMBER-GITHUB-ID>
+   cargo owner --add <MEMBER-GITHUB-ID>
 Once the repository is transferred to the organizational member, that member should follow the steps
 outlined above for transferring to the `rust-embedded-comunity`.
