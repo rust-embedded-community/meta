@@ -49,5 +49,7 @@ The following process can be used if the original crate owner does not wish to j
      to issue updated releases for the crate:
    ```sh
    cargo owner --add <MEMBER-GITHUB-ID>
+   ```
+
 Once the repository is transferred to the organizational member, that member should follow the steps
 outlined above for transferring to the `rust-embedded-comunity`.
