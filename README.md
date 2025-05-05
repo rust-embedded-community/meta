@@ -67,6 +67,7 @@ Once approved, a maintainer can add the team by adding `github:rust-embedded-com
 * Oliver Rockstedt - [GitHub](https://github.com/sourcebox)
 * Kor Nielsen - [GitHub](https://github.com/korran)
 * Christian Amsüss (@chrysn) – [Codeberg](https://codeberg.org/chrysn) | [GitHub](https://github.com/chrysn)
+* Román Cárdenas (@romancardenas) - [GitHub](https://github.com/romancardenas)
 
 [OSI]: https://en.wikipedia.org/wiki/Open_Source_Initiative
 [REWG]: https://github.com/rust-embedded
